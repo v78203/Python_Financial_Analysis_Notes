@@ -4,3 +4,4 @@
 從python基本的操作到進階的分析技巧
 
 原課程網址如下：https://www.udemy.com/python-for-finance-and-trading-algorithms/
+使用的是jupyter notebook為開發環境
